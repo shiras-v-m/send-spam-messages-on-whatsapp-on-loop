@@ -1,7 +1,8 @@
 # send-spam-messages-on-whatsapp-on-loop
 steps
 ====================
-1.Open Whatsapp web 
+1.Open Whatsapp web                                                     
+
 2.Choose a person to send loop message.
 3.Enter the message in the message box(text field).
 4.Copy my script.
