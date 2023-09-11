@@ -10,3 +10,8 @@
 1. All set!
 
 *Happy coding!* :)
+
+var count = parseInt(prompt("How often to repeat?🙃", 23));
+for (let iter = 0; iter < count; iter++) {
+  document.getElementsByClassName("tvf2evcx oq44ahr5 lb5m6g5c svlsagor p2rjqpw5 epia9gcq")[0].click();
+}
