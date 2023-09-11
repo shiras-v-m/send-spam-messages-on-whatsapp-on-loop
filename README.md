@@ -9,4 +9,4 @@
 1. Enter the count for how often to repeat and press ok
 1. All set!
 
-*  Happy coding! *
+*Happy coding!* :)
