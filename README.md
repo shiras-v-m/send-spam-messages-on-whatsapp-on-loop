@@ -1,12 +1,12 @@
-##steps
+## steps
 ====================
-subscript
+
 1. Open Whatsapp web                                                                           
 1. Choose a person to send loop message.
-### 3.Enter the message in the message box(text field).
-### 4.Copy my script.
-### 5.paste it on browser console and hit enter key.
-### 6.Enter the count for how often to repeat and press ok
-### 7.All set!
+1. Enter the message in the message box(text field).
+1. Copy my script.
+1. paste it on browser console and hit enter key.
+1. Enter the count for how often to repeat and press ok
+1. All set!
 
-## Happy coding!
+*  Happy coding! *
